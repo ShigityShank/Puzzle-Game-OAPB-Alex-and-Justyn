@@ -1,2 +1,3 @@
 # Puzzle-Game-OAPB-Alex-and-Justyn
-README
+This is a puzzle game that is created by ATum and JBruk
+
